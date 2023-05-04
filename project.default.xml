@@ -1,0 +1,32 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.environmentSetup&quot;
+  }
+}</component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1678115456093</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1678115456093</updated>
+        </task>
+        <servers />
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="552" y="235" key="Rider.ProjectTemplateDialog.Size" timestamp="1682410955837">
+          <screen x="0" y="0" width="1920" height="1032" />
+        </state>
+        <state x="552" y="235" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1032" timestamp="1682410955837" />
+        <state x="552" y="246" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080" timestamp="1678944500190" />
+        <state x="461" y="140" key="SettingsEditor" timestamp="1682410984102">
+          <screen x="0" y="0" width="1920" height="1032" />
+        </state>
+        <state x="461" y="140" key="SettingsEditor/0.0.1920.1032" timestamp="1682410984102" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
